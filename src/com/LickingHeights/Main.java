@@ -18,6 +18,6 @@ public class Main {
         Username= keyboard.nextLine();
         System.out.println("Hi"+Username+"We may now start the game...");
         System.out.println("Pick a number from 1-100");
-        
+        numberNeeded= keyboard.nextInt();
     }
 }
