@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Hello! Welcome to the Number Guessing Game. May I please have your name?");
         Username= keyboard.nextLine();
         System.out.println("Hi "+Username+", We may now start the game...");
-        numberNeeded= (int)Math.random()*100;
+        numberNeeded= (int)(Math.random()*100);
         System.out.println("Pick a number from 1-100");
         pickedNumber= keyboard.nextInt();
 
@@ -29,6 +29,7 @@ public class Main {
         else if (numberNeeded>=pickedNumber){
             System.out.println("go up");
         }
+      
 
 
 
