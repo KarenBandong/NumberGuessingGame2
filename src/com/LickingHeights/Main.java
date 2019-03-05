@@ -23,13 +23,148 @@ public class Main {
         System.out.println("Pick a number from 1-100");
         pickedNumber= keyboard.nextInt();
 
-        if (numberNeeded<=pickedNumber){
+        if (numberNeeded<pickedNumber){
             System.out.println("go down");
         }
-        else if (numberNeeded>=pickedNumber){
+        else if (numberNeeded>pickedNumber){
             System.out.println("go up");
         }
-      
+        else if(numberNeeded==pickedNumber){
+            System.out.println("Congratulations! You got it.");
+        }
+        pickedNumber= keyboard.nextInt();
+        if (numberNeeded<pickedNumber){
+            System.out.println("go down");
+        }
+        else if (numberNeeded>pickedNumber){
+            System.out.println("go up");
+        }
+        else if(numberNeeded==pickedNumber){
+            System.out.println("Congratulations! You got it.");
+        }
+        pickedNumber= keyboard.nextInt();
+        if (numberNeeded<pickedNumber){
+            System.out.println("go down");
+        }
+        else if (numberNeeded>pickedNumber){
+            System.out.println("go up");
+        }
+        else if(numberNeeded==pickedNumber){
+            System.out.println("Congratulations! You got it.");
+        }
+        pickedNumber= keyboard.nextInt();
+        if (numberNeeded<pickedNumber){
+            System.out.println("go down");
+        }
+        else if (numberNeeded>pickedNumber){
+            System.out.println("go up");
+        }
+        else if(numberNeeded==pickedNumber){
+            System.out.println("Congratulations! You got it.");
+        }
+        pickedNumber= keyboard.nextInt();
+        if (numberNeeded<pickedNumber){
+            System.out.println("go down");
+        }
+        else if (numberNeeded>pickedNumber){
+            System.out.println("go up");
+        }
+        else if(numberNeeded==pickedNumber){
+            System.out.println("Congratulations! You got it.");
+        }
+        pickedNumber= keyboard.nextInt();
+        if (numberNeeded<pickedNumber){
+            System.out.println("go down");
+        }
+        else if (numberNeeded>pickedNumber){
+            System.out.println("go up");
+        }
+        else if(numberNeeded==pickedNumber){
+            System.out.println("Congratulations! You got it.");
+        }
+        pickedNumber= keyboard.nextInt();
+        if (numberNeeded<pickedNumber){
+            System.out.println("go down");
+        }
+        else if (numberNeeded>pickedNumber){
+            System.out.println("go up");
+        }
+        else if(numberNeeded==pickedNumber){
+            System.out.println("Congratulations! You got it.");
+        }
+        pickedNumber= keyboard.nextInt();
+        if (numberNeeded<pickedNumber){
+            System.out.println("go down");
+        }
+        else if (numberNeeded>pickedNumber){
+            System.out.println("go up");
+        }
+        else if(numberNeeded==pickedNumber){
+            System.out.println("Congratulations! You got it.");
+        }
+        pickedNumber= keyboard.nextInt();
+        if (numberNeeded<pickedNumber){
+            System.out.println("go down");
+        }
+        else if (numberNeeded>pickedNumber){
+            System.out.println("go up");
+        }
+        else if(numberNeeded==pickedNumber){
+            System.out.println("Congratulations! You got it.");
+        }
+        pickedNumber= keyboard.nextInt();
+        if (numberNeeded<pickedNumber){
+            System.out.println("go down");
+        }
+        else if (numberNeeded>pickedNumber){
+            System.out.println("go up");
+        }
+        else if(numberNeeded==pickedNumber){
+            System.out.println("Congratulations! You got it.");
+        }
+        pickedNumber= keyboard.nextInt();
+        if (numberNeeded<pickedNumber){
+            System.out.println("go down");
+        }
+        else if (numberNeeded>pickedNumber){
+            System.out.println("go up");
+        }
+        else if(numberNeeded==pickedNumber){
+            System.out.println("Congratulations! You got it.");
+        }
+        pickedNumber= keyboard.nextInt();
+        if (numberNeeded<pickedNumber){
+            System.out.println("go down");
+        }
+        else if (numberNeeded>pickedNumber){
+            System.out.println("go up");
+        }
+        else if(numberNeeded==pickedNumber){
+            System.out.println("Congratulations! You got it.");
+        }
+        pickedNumber= keyboard.nextInt();
+        if (numberNeeded<pickedNumber){
+            System.out.println("go down");
+        }
+        else if (numberNeeded>pickedNumber){
+            System.out.println("go up");
+        }
+        else if(numberNeeded==pickedNumber){
+            System.out.println("Congratulations! You got it.");
+        }
+        pickedNumber= keyboard.nextInt();
+        if (numberNeeded<pickedNumber){
+            System.out.println("go down");
+        }
+        else if (numberNeeded>pickedNumber){
+            System.out.println("go up");
+        }
+        else if(numberNeeded==pickedNumber){
+            System.out.println("Congratulations! You got it.");
+        }
+
+
+
 
 
 
